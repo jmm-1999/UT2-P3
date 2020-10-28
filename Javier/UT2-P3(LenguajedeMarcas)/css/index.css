@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: large; 
+}
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: medium; 
+}
+
+#p1 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.ejbd {
+    color: brown;
+    font-style: italic;
+    font-size: x-large;
+}
+.ejc {
+    font-style: italic;
+}
+#spsec1 {
+    color: green;
+}
+#sphead {
+    font-size: 40px;
+}
+* {
+    font-weight: bolder;
+}
